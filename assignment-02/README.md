@@ -19,4 +19,5 @@ You may use the python built-in function `round(float, 2)` to 2 decimal places t
 the purpose of this assignment
 
 ![screenshot1](images/screenshot1.png)
-![screenshot2](images/screenshot1.png)
+
+![screenshot2](images/screenshot2.png)

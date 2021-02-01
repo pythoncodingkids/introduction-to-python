@@ -1,5 +1,5 @@
 ## Assignment 4
-### Practice exercies
+### Practice exercises
 
 1. Given 2 timestamps (start_hour, start_minute, end_hour, end_minute), return the number of minutes in between the 2 timestamps.
    Assume the hour will be in 24hr format, and period cannot be greater than 24 hours, but might cut across different dates (i.e. 22:30 to 01:30)

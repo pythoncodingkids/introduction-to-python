@@ -116,13 +116,3 @@ def non_duplicates(list_of_num):
             non_duplicate_list.append(n)
 
     return non_duplicate_list
-
-
-
-
-
-
-
-
-
-

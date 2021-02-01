@@ -12,9 +12,11 @@ Write a program to play tic-tac-toe.  The program should behave as shown in this
 * Program should alternate between **x** and **o** for each turn.
 * If a players chooses a position that is already taken, program should indicate as below and allow 
   player to choose position again until an empty position is chosen
+  
   ![screenshot2](images/screenshot2.png)
 * If any player wins, player won prompt should be shown.
 * If no player wins after the 9th move, draw should be shown.
+  
   ![draw](images/draw.png)
 * Program should prompt user whether they want play again when a game comes to an end (win or draw).
 * If player chooses to continue, 1st move should be given to the player who didn't start in the last game.

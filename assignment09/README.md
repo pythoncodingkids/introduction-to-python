@@ -8,10 +8,10 @@ Your program should behave as below:
 
 1. Print the board
 2. Start with RED player
-3. Ask to choose the column to drop the disk, if column already full ask user to choose another column
+3. Ask to choose the column to drop the disk, if column already full, ask user to choose another column
 4. Switch turn between RED and YELLOW
 5. Print board between each player turn  
-6. After each turn check if player won or draw.  
+6. After each turn check if player won or drawn.  
    * If won, indicate player won and display asterisk (*) on the 
     disks on the board that contributed to the win
    * If drawn, indicate draw   
